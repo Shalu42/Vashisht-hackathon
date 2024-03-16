@@ -1,20 +1,21 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com"> Title of the project </a><br>
+        <a href="#"> Breast Cancer Prediction </a><br>
     </b>
-    ⭐️This is a sample tag line  ⭐️ <br>
+    ⭐️A ML based code that predicts breast cancer⭐️ <br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
 mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
 ## Team Details
-`Team number` : VH000
+`Team number` : VH224
 
 | Name    | Email           |
 |---------|-----------------|
-| person1 | person1@gmail.com |
-| person2 | person2@gmail.com |
-| person3 | person3@gmail.com |
+| Shalini M | shalinim.cse2022@citchennai.net |
+| Krithika R | krithikasai2204@gmail.com |
+| Siddharth S | siddharths.cse2022@citchennai.net |
+| Sunitha Raj R | sunitharajr.cse2022@citchennai.net |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
