@@ -53,15 +53,25 @@ By leveraging machine learning, we aim to enhance early detection, leading to be
 
 ## How to run locally 
 Step 1: Install Anaconda Navigator. Download and install Anaconda Navigator following OS-specific instructions.
+
 Step 2: Launch Anaconda Navigator from your system.
+
 Step 3: Create a new environment in the "Environments" section. Choose Python 3.8 or a compatible version.
+
 Step 4: Install necessary packages by opening the environment with Jupyter Notebook or Spyder and navigating to the "Packages" tab.
+
 Step 5: Launch Jupyter Notebook by clicking "Launch" in the "Home" tab.
+
 Step 6: Upload project files directly into Jupyter Notebook.
+
 Step 7: Open the desired code file within Jupyter Notebook.
+
 Step 8: Run code cells sequentially to execute the code.
+
 Step 9: Explore the generated results, visualizations, and output.
+
 Step 10: Install any additional packages required using Anaconda Navigator.
+
 Step 11: Close Jupyter Notebook when finished with the project.
 
 # What's next ?
