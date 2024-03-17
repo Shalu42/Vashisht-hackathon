@@ -1,11 +1,11 @@
-<h1 align="center" style="border-bottom: none">
+w<h1 align="center" style="border-bottom: none">
     <b>
         <a href="#"> Breast Cancer Prediction </a><br>
     </b>
     ⭐️A ML based code that predicts breast cancer⭐️ <br>
 </h1>
 
-#  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
+#  [`Demo video link `](https://drive.google.com/file/d/1NIvdMW37bU1QJcne63jfC0UJH8rYqvzM/view?usp=drivesdk) [`Other links `](https://anaconda.org/anaconda/jupyter) 
 Hello everyone! Today, I'm excited to share with you our project on breast cancer prediction using machine learning.
 Breast cancer is one of the most prevalent types of cancer affecting women worldwide.
 Early detection plays a crucial role in improving survival rates and treatment outcomes.
@@ -41,15 +41,16 @@ Through rigorous training and evaluation, we verified the effectiveness of our m
 Our project contributes to the ongoing efforts in improving breast cancer diagnosis and treatment.
 By leveraging machine learning, we aim to enhance early detection, leading to better patient outcomes and healthcare management.
 ## Technical implemntaion 
-mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
-- use bullets to explain
-- be consise and specific
-- explain with images and flowcharts
-- 
+- Clean and normalize data using Pandas and Matplotlib for visualization.
+- Identify relevant features and visualize importance scores.
+- Utilize TensorFlow and traditional ML algorithms for model building.
+- Split data, train models, and evaluate performance using metrics.
+- Develop interface for seamless integration into healthcare systems.
+  
 ![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
 
 ## Techstacks used 
-`nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
+`Anaconda Navigator` , `Jupyter Notebook` , `TensorFlow` , `NumPy` , `Pandas`, `Matplotlib`
 
 ## How to run locally 
 explain detailed steps to run your project locally , example to run a react application 
