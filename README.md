@@ -23,13 +23,11 @@ By analyzing relevant data, we can develop models that assist in early detection
 | Sunitha Raj R | sunitharajr.cse2022@citchennai.net |
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-       <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
-</div>
+    <img src="https://github.com/Shalu42/Vashisht-hackathon/assets/124187336/c0dc4c73-55c7-4e8b-a3b3-31843c17c5cb" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/Shalu42/Vashisht-hackathon/assets/124187336/29f8ab0f-0f36-4612-842b-c59938c840c3" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/Shalu42/Vashisht-hackathon/assets/124187336/243220a2-609c-4b69-8b3b-b860292b2c44" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/Shalu42/Vashisht-hackathon/assets/124187336/511a359e-5d1d-4bb1-acde-b3f7a28a092f" alt="Image 3" style="width: 30%; margin: 5px;">
+       </div>
 
 ## Problem statement 
 Develop machine learning models for accurate breast cancer prediction, aiding early detection and treatment planning. Utilize Anaconda Navigator and Jupyter Notebook, with TensorFlow, NumPy, Pandas, and Matplotlib, to preprocess data and train models. Aim to improve patient outcomes in breast cancer management.
@@ -47,7 +45,7 @@ By leveraging machine learning, we aim to enhance early detection, leading to be
 - Split data, train models, and evaluate performance using metrics.
 - Develop interface for seamless integration into healthcare systems.
   
-![flowchart](![vashisht drawio](https://github.com/Shalu42/Vashisht-hackathon/assets/124187336/98b93025-25af-4a70-9a9e-2b746b468205)
+![flowchart](https://github.com/Shalu42/Vashisht-hackathon/assets/124187336/98b93025-25af-4a70-9a9e-2b746b468205)
 )
 
 ## Techstacks used 
