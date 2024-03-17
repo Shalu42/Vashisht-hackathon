@@ -47,7 +47,7 @@ By leveraging machine learning, we aim to enhance early detection, leading to be
 - Split data, train models, and evaluate performance using metrics.
 - Develop interface for seamless integration into healthcare systems.
   
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+![flowchart](https://drive.google.com/file/d/1qQgKTf5YXhXPKIdMIoseIvfkII33fCab/view?usp=sharing)
 
 ## Techstacks used 
 `Anaconda Navigator` , `Jupyter Notebook` , `TensorFlow` , `NumPy` , `Pandas`, `Matplotlib`
